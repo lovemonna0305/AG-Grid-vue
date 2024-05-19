@@ -1,0 +1,44 @@
+.show-cell {
+    background-color: #99999944;
+    border-left: 1px solid var(--ag-foreground-color) !important;
+    border-right: 1px solid var(--ag-foreground-color) !important;
+    border-bottom: 1px solid var(--ag-foreground-color) !important;
+}
+
+.show-name {
+    font-weight: bold;
+}
+
+.show-presenter {
+    font-style: italic;
+}
+
+
+.display-company {
+    background-color: #cc693344;
+}
+
+.display-team {
+    background-color: #CC333344;
+}
+
+
+.rag-red {
+    background-color: #CC222244;
+}
+.rag-green {
+    background-color: #33CC3344;
+}
+.rag-blue {
+    background-color: #2244CC44;
+}
+
+.rag-red-outer .rag-element {
+    background-color: #CC222244;
+}
+.rag-green-outer .rag-element {
+    background-color: #33CC3344;
+}
+.rag-blue-blue .rag-element {
+    background-color: #2244CC44;
+}
